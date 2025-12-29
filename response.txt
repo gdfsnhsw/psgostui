@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+host-id:0123456789AB
+host-type:PS4
+host-name:PS4
+host-request-port:987
+device-discovery-protocol-version:00020020
+system-version:07020001
+running-app-name:Youtube
+running-app-titleid:CUSA01116
